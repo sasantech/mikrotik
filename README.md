@@ -1,5 +1,5 @@
 ```bash 
- https://raw.githubusercontent.com/sasantech/mikrotik/refs/heads/main/MikrotikCHR.sh
+ wget https://raw.githubusercontent.com/sasantech/mikrotik/refs/heads/main/MikrotikCHR.sh
 ```
 ```bash
 chmod +x MikrotikCHR.sh
